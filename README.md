@@ -6,23 +6,23 @@ You will see I went an implemented modulatization by creating my own swift packa
 ## Screenshots
 | Request Permission | Loading View | Forecast View |
 |----------|----------|----------|
-| <img src="https://github.com/Kwood22/Weather/blob/main/https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/forecast.png" width="300"/> | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/loading.png" width="300"/> | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/permission.png" width="300"/> |
+| <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/forecast.PNG" width="300"/> | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/loading.PNG" width="300"/> | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/permission.PNG" width="300"/> |
 
 ### Error States:
 
 | Location denied | No internet | 
 |----------|----------|
-| <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/locationDenied.png" width="300"/> | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/noInternet.png" width="300"/> |
+| <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/locationDenied.PNG" width="300"/> | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/noInternet.PNG" width="300"/> |
 
 ## Run instructions
 | Step |  | 
 |----------|----------|
-| 1. Unzipe the file called WeatherApp-KyleWood.zip and open the foilder called `Weather` | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/folderWeather.png" width="1200" style="float: left;"/> |
-| 2. Open the `Weather.xcodeproj` in Xcode | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/folderProj.png" width="1200" style="float: left;"/> |
-| 3. Ensure you have an iPhone or simulator selected as the run destination (if you selected your iPhone, please change the project signing to a development certificate) | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/runApp.png" width="1200" style="float: left;"/> |
-| 4. Run the app, to install it on a simulator or iphone.  | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/permission.png" width="300" style="float: left;"/> |
-| 5. If you selected a simulator, you can simulate different locations by selecting the location icon at the bottom of the xcode screen | <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/simulatorLocation.png" width="1200" style="float: left;"/> |
-| 6. Selecting the location icon at the bottom of the xcode screen and picking a location. **Note: it might take two refreshes (clicking on refresh button) to get the updated location from Apple's CoreLocation library.**| <img src="https://github.com/Kwood22/Weather/blob/main/ReadmeAssets/simLocations.png" width="300" style="float: left;"/> |
+| 1. Unzipe the file called WeatherApp-KyleWood.zip and open the foilder called `Weather` | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/folderWeather.png" width="1200" style="float: left;"/> |
+| 2. Open the `Weather.xcodeproj` in Xcode | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/folderProj.png" width="1200" style="float: left;"/> |
+| 3. Ensure you have an iPhone or simulator selected as the run destination (if you selected your iPhone, please change the project signing to a development certificate) | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/runApp.png" width="1200" style="float: left;"/> |
+| 4. Run the app, to install it on a simulator or iphone.  | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/permission.png" width="300" style="float: left;"/> |
+| 5. If you selected a simulator, you can simulate different locations by selecting the location icon at the bottom of the xcode screen | <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/simulatorLocation.png" width="1200" style="float: left;"/> |
+| 6. Selecting the location icon at the bottom of the xcode screen and picking a location. **Note: it might take two refreshes (clicking on refresh button) to get the updated location from Apple's CoreLocation library.**| <img src="https://raw.githubusercontent.com/Kwood22/Weather/refs/heads/main/ReadmeAssets/simLocations.png" width="300" style="float: left;"/> |
 
 ## 🏗 Architecture Overview
 This project follows a modular architecture pattern using Swift Packages as independent modules.
