@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "4F6A67EC-7B59-47EB-B041-B6B069EA1D3D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Weather.xcodeproj",
+        "identifier" : "696808772D3BD3E600F69CB7",
+        "name" : "WeatherTests"
+      }
+    }
+  ],
+  "version" : 1
+}

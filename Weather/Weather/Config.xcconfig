@@ -1,0 +1,3 @@
+API_KEY=4690232ad4c422cef00ebf50f9f50c65
+BASE_ICON_URL=https:/$()/openweathermap.org/img/wn/
+BASE_API_URL=https:/$()/api.openweathermap.org/data/3.0/onecall

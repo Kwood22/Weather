@@ -1,0 +1,27 @@
+{
+  "configurations" : [
+    {
+      "id" : "B9867C12-EF2D-439A-8133-9F5A639A319B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "locationScenario" : {
+      "identifier" : "London, England",
+      "referenceType" : "built-in"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "UtilityKitTests",
+        "name" : "UtilityKitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
